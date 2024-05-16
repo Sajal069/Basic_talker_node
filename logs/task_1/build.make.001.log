@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target dummy_publisher[0m
+[35m[1mScanning dependencies of target dummy_subscriber[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/dummy_publisher.dir/src/dummy_publisher.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/dummy_subscriber.dir/src/dummy_subscriber.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/sajal69/Workspaces/task_1/devel/.private/task_1/lib/task_1/dummy_publisher[0m
+[ 75%] Built target dummy_publisher
+[100%] [32m[1mLinking CXX executable /home/sajal69/Workspaces/task_1/devel/.private/task_1/lib/task_1/dummy_subscriber[0m
+[100%] Built target dummy_subscriber
